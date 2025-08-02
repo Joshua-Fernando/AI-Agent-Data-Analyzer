@@ -1,0 +1,211 @@
+Category,Cost
+Accommodation,1254.32
+Transportation,450.78
+Meals,312.55
+Entertainment,150.20
+Groceries,432.89
+Utilities,189.45
+Shopping,678.90
+Healthcare,250.00
+Insurance,300.60
+Personal Care,75.25
+Education,1500.00
+Gifts & Donations,100.00
+Subscriptions,45.99
+Travel,2500.50
+Misc.,55.75
+Accommodation,1345.90
+Transportation,320.15
+Meals,289.40
+Entertainment,95.50
+Groceries,390.12
+Utilities,175.80
+Shopping,850.25
+Healthcare,120.75
+Insurance,310.00
+Personal Care,60.90
+Education,1800.75
+Gifts & Donations,75.50
+Subscriptions,39.99
+Travel,1890.60
+Misc.,40.20
+Accommodation,980.45
+Transportation,600.00
+Meals,350.80
+Entertainment,210.30
+Groceries,510.60
+Utilities,205.50
+Shopping,420.70
+Healthcare,350.90
+Insurance,290.40
+Personal Care,95.00
+Education,1250.20
+Gifts & Donations,150.75
+Subscriptions,55.00
+Travel,3200.00
+Misc.,80.10
+Accommodation,1450.70
+Transportation,280.90
+Meals,299.00
+Entertainment,180.40
+Groceries,480.25
+Utilities,195.20
+Shopping,990.50
+Healthcare,180.60
+Insurance,325.80
+Personal Care,85.30
+Education,2100.50
+Gifts & Donations,125.00
+Subscriptions,49.99
+Travel,2100.90
+Misc.,65.40
+Accommodation,1150.25
+Transportation,550.60
+Meals,330.10
+Entertainment,130.80
+Groceries,410.75
+Utilities,165.90
+Shopping,750.00
+Healthcare,300.20
+Insurance,280.70
+Personal Care,70.50
+Education,1600.40
+Gifts & Donations,90.25
+Subscriptions,35.50
+Travel,2800.75
+Misc.,50.95
+Accommodation,1600.80
+Transportation,390.25
+Meals,380.60
+Entertainment,250.75
+Groceries,550.40
+Utilities,220.10
+Shopping,1200.30
+Healthcare,400.50
+Insurance,350.00
+Personal Care,110.80
+Education,2500.00
+Gifts & Donations,200.10
+Subscriptions,65.20
+Travel,4000.25
+Misc.,95.60
+Accommodation,890.50
+Transportation,720.40
+Meals,270.90
+Entertainment,115.90
+Groceries,360.50
+Utilities,150.30
+Shopping,600.80
+Healthcare,220.40
+Insurance,260.50
+Personal Care,55.70
+Education,1100.60
+Gifts & Donations,60.80
+Subscriptions,29.99
+Travel,1500.40
+Misc.,35.80
+Accommodation,1750.00
+Transportation,410.50
+Meals,400.70
+Entertainment,280.90
+Groceries,600.00
+Utilities,240.60
+Shopping,1500.10
+Healthcare,450.75
+Insurance,380.20
+Personal Care,125.40
+Education,3000.80
+Gifts & Donations,250.30
+Subscriptions,75.00
+Travel,4500.00
+Misc.,120.50
+Accommodation,950.60
+Transportation,800.75
+Meals,305.20
+Entertainment,170.50
+Groceries,455.90
+Utilities,185.70
+Shopping,880.40
+Healthcare,280.15
+Insurance,295.80
+Personal Care,80.60
+Education,1350.90
+Gifts & Donations,110.45
+Subscriptions,42.75
+Travel,2300.60
+Misc.,70.35
+Accommodation,1320.40
+Transportation,360.80
+Meals,340.50
+Entertainment,195.60
+Groceries,495.30
+Utilities,200.40
+Shopping,1100.70
+Healthcare,375.80
+Insurance,335.90
+Personal Care,100.20
+Education,2300.50
+Gifts & Donations,180.60
+Subscriptions,60.50
+Travel,3500.40
+Misc.,90.80
+Accommodation,1050.30
+Transportation,650.20
+Meals,290.70
+Entertainment,140.40
+Groceries,395.60
+Utilities,160.80
+Shopping,680.90
+Healthcare,240.30
+Insurance,270.60
+Personal Care,65.10
+Education,1150.70
+Gifts & Donations,80.40
+Subscriptions,32.80
+Travel,1700.50
+Misc.,45.70
+Accommodation,1850.90
+Transportation,480.30
+Meals,420.80
+Entertainment,300.10
+Groceries,650.20
+Utilities,260.70
+Shopping,1800.50
+Healthcare,500.90
+Insurance,400.30
+Personal Care,140.60
+Education,3500.10
+Gifts & Donations,300.40
+Subscriptions,85.70
+Travel,5000.80
+Misc.,150.90
+Accommodation,2001.34
+Transportation,289.12
+Meals,145.67
+Entertainment,78.90
+Groceries,234.56
+Utilities,99.88
+Shopping,345.12
+Healthcare,150.00
+Insurance,210.75
+Personal Care,45.33
+Education,800.00
+Gifts & Donations,50.25
+Subscriptions,19.99
+Travel,1245.67
+Misc.,23.45
+Accommodation,1578.90
+Transportation,312.45
+Meals,210.33
+Entertainment,112.44
+Groceries,310.88
+Utilities,135.21
+Shopping,521.90
+Healthcare,220.50
+Insurance,255.40
+Personal Care,67.89
+Education,1150.25
+Gifts & Donations,88.00
+Subscriptions,34.50
+Travel,1987.43
+Misc.,47.89

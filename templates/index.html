@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Agent Chat</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="chat-container">
+        <div class="chat-header">
+            <h2>AI Data Agent 🤖</h2>
+            <p>Ask me questions about the data in `data.txt`</p>
+        </div>
+        <div class="chat-window">
+            {% for message in chat_history %}
+                <div class="message {{ message.role }}">
+                    <p>{{ message.content }}</p>
+                </div>
+            {% endfor %}
+        </div>
+        <div class="chat-input">
+            <form method="POST">
+                <input type="text" name="prompt" placeholder="Type your message..." required autocomplete="off">
+                <button type="submit">Send</button>
+            </form>
+        </div>
+    </div>
+</body>
+</html>
